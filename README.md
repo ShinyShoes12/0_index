@@ -1,4 +1,4 @@
 # 0_About profile img
 
 Notice of profile authorize
-<a href="http://www.freepik.com">Designed by macrovector / Freepik</a>
+<a href="https://www.freepik.com/vectors/fashion">Fashion vector created by macrovector - www.freepik.com</a>
